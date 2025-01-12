@@ -7,3 +7,5 @@
 /WebApplication1/.vs/WebApplication1
 /WebApplication1/WebApplication1/obj
 /WebApplication1/WebApplication1.sln
+*.user
+/WebApplication1/WebApplication1/WebApplication1.csproj
