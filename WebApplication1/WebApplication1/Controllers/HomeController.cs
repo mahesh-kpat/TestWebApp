@@ -17,6 +17,7 @@ namespace WebApplication1.Controllers
         public IActionResult Index()
         {
             return View();
+            //changes by JAM MBS ON 12-1-2025
         }
 
         public IActionResult Privacy()
